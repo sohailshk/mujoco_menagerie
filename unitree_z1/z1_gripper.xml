@@ -92,12 +92,12 @@
               <body name="link05" pos="0.07 0 0">
                 <inertial pos="0.0312153 0 0.00646316" quat="0.462205 0.535209 0.53785 0.45895" mass="0.389385"
                   diaginertia="0.000558961 0.000547317 0.000167332"/>
-                <joint name="joint5" axis="0 0 1" range="-1.3439 1.3439"/>
+                <joint name="joint5" axis="0 0 1" range="-1.3439 1.3439" armature="0.005"/>
                 <geom class="visual" mesh="z1_Link05"/>
                 <body name="link06" pos="0.0492 0 0">
                   <inertial pos="0.0241569 -0.00017355 -0.00143876" quat="0.998779 0.0457735 -0.00663717 0.0173548"
                     mass="0.288758" diaginertia="0.00018333 0.000147464 0.000146786"/>
-                  <joint name="joint6" axis="1 0 0" range="-2.79253 2.79253"/>
+                  <joint name="joint6" axis="1 0 0" range="-2.79253 2.79253" armature="0.005"/>
                   <geom class="visual" mesh="z1_Link06"/>
                   <geom size="0.0325 0.0255" pos="0.0255 0 0" quat="1 0 1 0" class="collision"/>
                   <geom pos="0.051 0 0" type="mesh" mesh="z1_GripperStator" class="visual"/>

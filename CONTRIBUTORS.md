@@ -45,6 +45,7 @@ Built by the Google DeepMind team with contributions from the open-source commun
 - [Omar Rayyan](https://github.com/omarrayyann)
 - [Rishabh Sai](https://github.com/rishabhsai)
 - [Sai Kishor Kothakota](https://github.com/saikishor)
+- [Sohail Shaikh](https://github.com/sohailshk)
 - [Sylvester Kaczmarek](https://github.com/sylvesterkaczmarek)
 - [Taehyeong Kim](https://github.com/kimtaehyeong99)
 - [Taylor Howell](https://github.com/thowell)
