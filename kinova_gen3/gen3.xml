@@ -92,6 +92,10 @@
     </body>
   </worldbody>
 
+  <contact>
+    <exclude body1="base_link" body2="shoulder_link"/>
+  </contact>
+
   <actuator>
     <position class="large_actuator" name="joint_1" joint="joint_1"/>
     <position class="large_actuator" name="joint_2" joint="joint_2" ctrlrange="-2.2497294058206907 2.2497294058206907"/>
